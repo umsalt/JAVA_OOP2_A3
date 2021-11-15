@@ -1,9 +1,4 @@
-/*
-Name & ID: Nicole Um 40112704
-COMP 249
-Assignment 3
-Due date: November 14th Midnight
- */
+
 
 /**
  * @author Nicole Um
